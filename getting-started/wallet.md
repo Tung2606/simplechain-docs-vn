@@ -42,3 +42,4 @@ Sau khi thêm mạng thành công:
 - Không chia sẻ Seed Phrase
 - Chỉ sử dụng RPC chính thức
 - Luôn kiểm tra URL website
+> ⚠ Không chia sẻ Seed Phrase hoặc Private Key với bất kỳ ai.

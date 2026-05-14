@@ -59,3 +59,4 @@ wss://rpc.simplechain.com/ws
 - Web3.js
 - Ethers.js
 - Hardhat
+> ℹ RPC public có thể giới hạn rate limit.

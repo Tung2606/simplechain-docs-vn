@@ -1,27 +1,66 @@
 # Summary
 
-- [Overview](introduction/overview.md)
+- [Trang chủ](README.md)
 
-## Getting Started
+# Giới thiệu
 
-- [Installation](getting-started/installation.md)
-- [Wallet Setup](getting-started/wallet.md)
-- [First Transaction](getting-started/first-transaction.md)
+- [Tổng quan](introduction/overview.md)
 
-## Blockchain
+# Bắt đầu
 
-- [Consensus](blockchain/consensus.md)
+- [Cài đặt](getting-started/installation.md)
+- [Thiết lập ví](getting-started/wallet.md)
+- [Gửi giao dịch](getting-started/first-transaction.md)
+
+# Blockchain
+
+- [Cơ chế đồng thuận](blockchain/consensus.md)
 - [Validator](blockchain/validator.md)
-- [Gas Fees](blockchain/gas-fees.md)
+- [Phí gas](blockchain/gas-fees.md)
 
-## Developers
+# Dành cho Developer
 
-- [Smart Contracts](developers/smart-contracts.md)
 - [RPC API](developers/rpc-api.md)
+- [Smart Contract](developers/smart-contracts.md)
 - [SDK](developers/sdk.md)
 
-## Ecosystem
+# Hệ sinh thái
 
 - [Roadmap](ecosystem/roadmap.md)
-- [Partners](ecosystem/partners.md)
 - [Tokenomics](ecosystem/tokenomics.md)
+- [Đối tác](ecosystem/partners.md)
+- [Explorer](ecosystem/explorer.md)
+- [Staking](ecosystem/staking.md)
+---
+
+# Kiến trúc hệ thống
+
+```text
+Users
+↓
+Wallet
+↓
+RPC API
+↓
+Validator Network
+↓
+SimpleChain Blockchain
+```
+
+# Thành phần mạng
+
+| Thành phần | Mô tả |
+|---|---|
+| Validator | xác thực block |
+| RPC Node | xử lý API |
+| Explorer | theo dõi transaction |
+| Wallet | quản lý tài sản |
+
+# Liên kết hệ sinh thái
+
+- Explorer
+- Bridge
+- Staking
+- Governance
+- DEX
+- NFT Marketplace

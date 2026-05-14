@@ -55,3 +55,4 @@ Khuyến nghị:
 - sử dụng firewall
 - backup private key
 - không public server management port
+> 🔒 Khuyến nghị sử dụng VPS riêng cho validator production.
